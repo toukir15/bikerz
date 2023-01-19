@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+}
+header {
+  width: 100vh;
+  height: 100vh;
+  background: linear-gradient(90deg, rgb(9, 9, 9), rgba(238, 244, 248, 0.1)),
+    url(/images/driving-green-neon-color-motorcycle-road.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.banner__section {
+  height: calc(100vh - 69px);
+}
